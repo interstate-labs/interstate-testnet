@@ -12,7 +12,11 @@
     "berlinBlock": 0,
     "londonBlock": 0
   },
-  "alloc": {},
+  "alloc": {
+    "0x675Fd297A916874d5518CC335f28b7a529A7c3Ac": {
+      "balance": "2400000000000"
+    }
+  },
   "coinbase": "0x0000000000000000000000000000000000000000",
   "difficulty": "0x20000",
   "extraData": "",
