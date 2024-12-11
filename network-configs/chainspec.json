@@ -51,7 +51,7 @@
     "eip1153TransitionTimestamp": "0x0",
     "eip5656TransitionTimestamp": "0x0",
     "eip6780TransitionTimestamp": "0x0",
-    "eip6800TransitionTimestamp": "0x1e49d20e4"
+    "eip6800TransitionTimestamp": "0x1e4d18214"
   },
   "genesis": {
     "seal": {
@@ -62,7 +62,7 @@
     },
     "difficulty": "0x01",
     "author": "0x0000000000000000000000000000000000000000",
-    "timestamp": "0x6724e0d0",
+    "timestamp": "0x67594200",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "extraData": "",
     "gasLimit": "0x17d7840"
