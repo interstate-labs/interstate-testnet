@@ -15,7 +15,7 @@
     "terminalTotalDifficulty": 0,
     "shanghaiTime": 0,
     "cancunTime": 0,
-    "pragueTime": 8133902868,
+    "pragueTime": 8134344960,
     "ethash": {}
   },
   "alloc": {
@@ -901,5 +901,5 @@
   "nonce": "0x1234",
   "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "timestamp": "1733902848"
+  "timestamp": "1734344940"
 }
